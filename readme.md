@@ -1,4 +1,4 @@
-install using:
+install requeriments using:
     
     python install -r requirements.txt
 
